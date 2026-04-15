@@ -7,3 +7,5 @@ phases:
     build:
       commands:
         - docker build -t flask-app ./app
+
+    
